@@ -3,7 +3,7 @@
 TowTrainRouting is a comprehensive solution for achieving conflict-free tow train routing in just-in-time manufacturing systems. This repository implements a pixel-based layout system to optimize tow train paths while avoiding collisions.
 
 Key Features:
-A Algorithm*: Used to calculate the distance matrix between workstations on a pixelated production layout.
+A* Algorithm: Used to calculate the distance matrix between workstations on a pixelated production layout.
 Simulated Annealing (SA): Optimizes tow train routes to meet workstation demands efficiently.
 Conflict Detection Algorithm (CDA): Detects and resolves conflicts among tow trains, ensuring smooth operation.
 Sample Run:
